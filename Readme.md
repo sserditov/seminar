@@ -46,3 +46,16 @@ Git - это одна из реализаций распределённых с�
 [id1]: /2.jpg "Цветочки"
 *** Вывод изображения c помощью метки-идентификатора.
 ![Цветочки][id1]
+
+Список ссылок и плагинов
+## Plugins
+
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Plugin | README |
+| ------ | ------ |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
